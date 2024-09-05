@@ -1,0 +1,10 @@
+.select {
+    margin: 5px;
+    width: 40px;
+    font-size: 14px;
+    font-family: 'Arial', sans-serif;
+    background-color:  rgb(253,248,248);
+    border: none;
+    outline: 0;
+    border-bottom: 3px solid rgb(232,207,207);
+}
